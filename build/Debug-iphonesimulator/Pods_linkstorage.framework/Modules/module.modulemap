@@ -1,0 +1,6 @@
+framework module Pods_linkstorage {
+  umbrella header "Pods-linkstorage-umbrella.h"
+
+  export *
+  module * { export * }
+}
