@@ -59,11 +59,11 @@
 }
 
 - (void)menuStateEventOccurred:(NSNotification *)notification {
-    MFSideMenuStateEvent event = [[[notification userInfo] objectForKey:@"eventType"] intValue];
-    if (event==1) {
-        [[UIApplication sharedApplication] setStatusBarStyle:UIStatusBarStyleDefault animated:NO];
-    }
-    if (event==2) [[UIApplication sharedApplication] setStatusBarStyle:UIStatusBarStyleLightContent animated:YES];
+//    MFSideMenuStateEvent event = [[[notification userInfo] objectForKey:@"eventType"] intValue];
+//    if (event==1) {
+//        [[UIApplication sharedApplication] setStatusBarStyle:UIStatusBarStyleDefault animated:NO];
+//    }
+//    if (event==2) [[UIApplication sharedApplication] setStatusBarStyle:UIStatusBarStyleLightContent animated:YES];
 }
 
 /*

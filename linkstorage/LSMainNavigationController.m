@@ -16,7 +16,7 @@
 @implementation LSMainNavigationController
 
 - (void)viewDidLoad {
-    [self.navigationBar setBarTintColor:[UIColor colorWithRed:0.37 green:0.76 blue:0.98 alpha:1.0]];
+    [self.navigationBar setBarTintColor:[UIColor colorWithRed:0.27 green:0.69 blue:0.93 alpha:1.0]];
     [self.navigationBar setTintColor:[UIColor whiteColor]];
     [self.navigationBar setTranslucent:NO];
     [self.navigationBar setTitleTextAttributes:@{NSForegroundColorAttributeName:[UIColor whiteColor]}];

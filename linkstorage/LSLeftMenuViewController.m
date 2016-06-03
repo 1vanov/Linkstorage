@@ -21,8 +21,9 @@
     if ([self.tableView respondsToSelector:@selector(setSeparatorInset:)]) {
         [self.tableView setSeparatorInset:UIEdgeInsetsMake(0, 15, 0, 0)];
     }
+    [self.tableView setSeparatorColor:[UIColor colorWithRed:0.23 green:0.24 blue:0.25 alpha:1.0]];
     
-    self.navigationItem.leftBarButtonItem.tintColor = [UIColor blackColor];
+    self.navigationItem.leftBarButtonItem.tintColor = [UIColor colorWithRed:0.96 green:0.96 blue:0.96 alpha:1.0];
     
     [super viewDidLoad];
 }
@@ -43,6 +44,13 @@
     return 2;
 }
 
+- (void)tableView:(UITableView *)tableView willDisplayHeaderView:(UIView *)view forSection:(NSInteger)section {
+    if (section == 0) return;
+    [view setTintColor:[UIColor colorWithRed:0.15 green:0.18 blue:0.18 alpha:1.0]];
+    UITableViewHeaderFooterView *header = (UITableViewHeaderFooterView *)view;
+    [header.textLabel setTextColor:[UIColor colorWithRed:0.96 green:0.96 blue:0.96 alpha:1.0]];
+    [header.textLabel setFont:[UIFont fontWithName:@"HelveticaNeue-Medium" size:16]];
+}
 
 - (CGFloat) tableView:(UITableView *)tableView heightForHeaderInSection:(NSInteger)section {
     if (section == 0)

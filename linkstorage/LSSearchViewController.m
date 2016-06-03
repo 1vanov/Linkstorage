@@ -30,9 +30,15 @@
 - (void)viewDidLoad {
     
     UISearchBar *searchBar = [[UISearchBar alloc] init];
-    [searchBar setTintColor:[UIColor blackColor]];
+    [searchBar setTintColor:[UIColor whiteColor]];
     [searchBar setSearchBarStyle:UISearchBarStyleMinimal];
     [searchBar setPlaceholder:@"Поиск.."];
+    [searchBar setImage:[UIImage imageNamed:@"search_white"] forSearchBarIcon:UISearchBarIconSearch state:UIControlStateNormal];
+    UITextField *searchTextField = [searchBar valueForKey:@"_searchField"];
+    if ([searchTextField respondsToSelector:@selector(setAttributedPlaceholder:)]) {
+        UIColor *color = [UIColor whiteColor];
+        [searchTextField setAttributedPlaceholder:[[NSAttributedString alloc] initWithString:@"Поиск.." attributes:@{NSForegroundColorAttributeName: color}]];
+    }
     self.navigationItem.titleView = searchBar;
     
     [self reloadView:YES reloadData:NO];
