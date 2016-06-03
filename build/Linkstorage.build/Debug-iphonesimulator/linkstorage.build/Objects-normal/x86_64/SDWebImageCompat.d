@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/ilya/Downloads/Linkstorage/linkstorage/WebCache/SDWebImageCompat.m \
-  /Users/ilya/Downloads/Linkstorage/linkstorage/WebCache/SDWebImageCompat.h
+  /Users/ilya/Documents/iOS/Projects/Linkstorage/linkstorage/WebCache/SDWebImageCompat.m \
+  /Users/ilya/Documents/iOS/Projects/Linkstorage/linkstorage/WebCache/SDWebImageCompat.h

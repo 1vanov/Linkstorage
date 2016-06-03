@@ -1,2 +1,3 @@
-dependencies: /Users/ilya/Downloads/Linkstorage/linkstorage/ProfileData.m \
-  /Users/ilya/Downloads/Linkstorage/linkstorage/ProfileData.h
+dependencies: \
+  /Users/ilya/Documents/iOS/Projects/Linkstorage/linkstorage/ProfileData.m \
+  /Users/ilya/Documents/iOS/Projects/Linkstorage/linkstorage/ProfileData.h

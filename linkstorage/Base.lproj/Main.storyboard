@@ -31,7 +31,7 @@
                                     <segment title="Люди"/>
                                     <segment title="Записи"/>
                                 </segments>
-                                <color key="tintColor" red="0.039215686270000001" green="0.6588235294" blue="0.43137254899999999" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="tintColor" red="0.36862745098039218" green="0.76078431372549016" blue="0.98039215686274506" alpha="1" colorSpace="calibratedRGB"/>
                             </segmentedControl>
                             <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="61" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="3ah-gd-FBM">
                                 <rect key="frame" x="0.0" y="27" width="320" height="477"/>
@@ -488,7 +488,7 @@
                                                     <rect key="frame" x="0.0" y="0.0" width="320" height="47.5"/>
                                                     <autoresizingMask key="autoresizingMask"/>
                                                     <subviews>
-                                                        <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="home" translatesAutoresizingMaskIntoConstraints="NO" id="ksv-Rd-vi7">
+                                                        <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="folder" translatesAutoresizingMaskIntoConstraints="NO" id="ksv-Rd-vi7">
                                                             <rect key="frame" x="14" y="14" width="18" height="18"/>
                                                             <constraints>
                                                                 <constraint firstAttribute="height" constant="18" id="Dic-r7-xNg"/>
@@ -1592,15 +1592,16 @@
     <resources>
         <image name="add_link_filled" width="22" height="22"/>
         <image name="back" width="22" height="22"/>
+        <image name="folder" width="26" height="26"/>
         <image name="home" width="32" height="32"/>
         <image name="like" width="20" height="24"/>
         <image name="like_filled" width="25" height="25"/>
         <image name="logo" width="1060" height="236"/>
-        <image name="menu" width="22" height="22"/>
+        <image name="menu" width="26" height="26"/>
         <image name="mountains" width="1920" height="1200"/>
-        <image name="novel" width="32" height="32"/>
-        <image name="search" width="32" height="32"/>
-        <image name="user" width="32" height="32"/>
+        <image name="novel" width="26" height="26"/>
+        <image name="search" width="26" height="26"/>
+        <image name="user" width="24" height="24"/>
     </resources>
     <inferredMetricsTieBreakers>
         <segue reference="eNC-Tp-rmW"/>

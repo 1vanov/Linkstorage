@@ -1,2 +1,3 @@
-dependencies: /Users/ilya/Downloads/Linkstorage/linkstorage/FeedData.m \
-  /Users/ilya/Downloads/Linkstorage/linkstorage/FeedData.h
+dependencies: \
+  /Users/ilya/Documents/iOS/Projects/Linkstorage/linkstorage/FeedData.m \
+  /Users/ilya/Documents/iOS/Projects/Linkstorage/linkstorage/FeedData.h

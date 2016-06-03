@@ -1,8 +1,8 @@
 dependencies: \
-  /Users/ilya/Downloads/Linkstorage/linkstorage/WebCache/SDWebImagePrefetcher.m \
-  /Users/ilya/Downloads/Linkstorage/linkstorage/WebCache/SDWebImagePrefetcher.h \
-  /Users/ilya/Downloads/Linkstorage/linkstorage/WebCache/SDWebImageManager.h \
-  /Users/ilya/Downloads/Linkstorage/linkstorage/WebCache/SDWebImageCompat.h \
-  /Users/ilya/Downloads/Linkstorage/linkstorage/WebCache/SDWebImageOperation.h \
-  /Users/ilya/Downloads/Linkstorage/linkstorage/WebCache/SDWebImageDownloader.h \
-  /Users/ilya/Downloads/Linkstorage/linkstorage/WebCache/SDImageCache.h
+  /Users/ilya/Documents/iOS/Projects/Linkstorage/linkstorage/WebCache/SDWebImagePrefetcher.m \
+  /Users/ilya/Documents/iOS/Projects/Linkstorage/linkstorage/WebCache/SDWebImagePrefetcher.h \
+  /Users/ilya/Documents/iOS/Projects/Linkstorage/linkstorage/WebCache/SDWebImageManager.h \
+  /Users/ilya/Documents/iOS/Projects/Linkstorage/linkstorage/WebCache/SDWebImageCompat.h \
+  /Users/ilya/Documents/iOS/Projects/Linkstorage/linkstorage/WebCache/SDWebImageOperation.h \
+  /Users/ilya/Documents/iOS/Projects/Linkstorage/linkstorage/WebCache/SDWebImageDownloader.h \
+  /Users/ilya/Documents/iOS/Projects/Linkstorage/linkstorage/WebCache/SDImageCache.h

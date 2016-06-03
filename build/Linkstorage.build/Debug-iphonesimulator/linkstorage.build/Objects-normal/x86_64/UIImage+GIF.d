@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/ilya/Downloads/Linkstorage/linkstorage/WebCache/UIImage+GIF.m \
-  /Users/ilya/Downloads/Linkstorage/linkstorage/WebCache/UIImage+GIF.h
+  /Users/ilya/Documents/iOS/Projects/Linkstorage/linkstorage/WebCache/UIImage+GIF.m \
+  /Users/ilya/Documents/iOS/Projects/Linkstorage/linkstorage/WebCache/UIImage+GIF.h

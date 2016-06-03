@@ -1,2 +1,3 @@
-dependencies: /Users/ilya/Downloads/Linkstorage/linkstorage/NotifyData.m \
-  /Users/ilya/Downloads/Linkstorage/linkstorage/NotifyData.h
+dependencies: \
+  /Users/ilya/Documents/iOS/Projects/Linkstorage/linkstorage/NotifyData.m \
+  /Users/ilya/Documents/iOS/Projects/Linkstorage/linkstorage/NotifyData.h

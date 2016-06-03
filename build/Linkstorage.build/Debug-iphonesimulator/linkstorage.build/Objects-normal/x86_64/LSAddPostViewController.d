@@ -1,4 +1,4 @@
 dependencies: \
-  /Users/ilya/Downloads/Linkstorage/linkstorage/LSAddPostViewController.m \
-  /Users/ilya/Downloads/Linkstorage/linkstorage/LSAddPostViewController.h \
-  /Users/ilya/Downloads/Linkstorage/linkstorage/SDK.h
+  /Users/ilya/Documents/iOS/Projects/Linkstorage/linkstorage/LSAddPostViewController.m \
+  /Users/ilya/Documents/iOS/Projects/Linkstorage/linkstorage/LSAddPostViewController.h \
+  /Users/ilya/Documents/iOS/Projects/Linkstorage/linkstorage/SDK.h

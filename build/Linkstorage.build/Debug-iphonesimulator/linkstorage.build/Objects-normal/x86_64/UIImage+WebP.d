@@ -1,2 +1,2 @@
 dependencies: \
-  /Users/ilya/Downloads/Linkstorage/linkstorage/WebCache/UIImage+WebP.m
+  /Users/ilya/Documents/iOS/Projects/Linkstorage/linkstorage/WebCache/UIImage+WebP.m

@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/ilya/Downloads/Linkstorage/linkstorage/LSLeftMenuTableViewCell.m \
-  /Users/ilya/Downloads/Linkstorage/linkstorage/LSLeftMenuTableViewCell.h
+  /Users/ilya/Documents/iOS/Projects/Linkstorage/linkstorage/LSLeftMenuTableViewCell.m \
+  /Users/ilya/Documents/iOS/Projects/Linkstorage/linkstorage/LSLeftMenuTableViewCell.h

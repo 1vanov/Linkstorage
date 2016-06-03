@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/ilya/Downloads/Linkstorage/Pods/Target\ Support\ Files/AFNetworking/AFNetworking-dummy.m \
-  /Users/ilya/Downloads/Linkstorage/Pods/Target\ Support\ Files/AFNetworking/AFNetworking-prefix.pch
+  /Users/ilya/Documents/iOS/Projects/Linkstorage/Pods/Target\ Support\ Files/AFNetworking/AFNetworking-dummy.m \
+  /Users/ilya/Documents/iOS/Projects/Linkstorage/Pods/Target\ Support\ Files/AFNetworking/AFNetworking-prefix.pch
