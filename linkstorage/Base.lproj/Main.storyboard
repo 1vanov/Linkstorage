@@ -452,7 +452,6 @@
                     <navigationBar key="navigationBar" contentMode="scaleToFill" translucent="NO" id="vR3-j2-pOy">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
-                        <color key="barTintColor" red="0.37647058820000001" green="0.49019607840000001" blue="0.5450980392" alpha="1" colorSpace="calibratedRGB"/>
                     </navigationBar>
                     <connections>
                         <segue destination="pac-7l-l82" kind="relationship" relationship="rootViewController" id="0X0-cM-Avb"/>
@@ -1594,7 +1593,7 @@
         <image name="add_link_filled" width="22" height="22"/>
         <image name="back" width="22" height="22"/>
         <image name="folder" width="26" height="26"/>
-        <image name="home" width="32" height="32"/>
+        <image name="home" width="5120" height="3200"/>
         <image name="like" width="20" height="24"/>
         <image name="like_filled" width="25" height="25"/>
         <image name="logo" width="1060" height="236"/>
